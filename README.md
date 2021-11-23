@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @davcwikla
+- 👀 I’m interested in ethicalhacking, pentesting, programming
+- 🌱 I’m currently learning ethicalhacking and programming (javascript, python c++)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me cwiklatech@gmail.com or instagram @davidcwikla
