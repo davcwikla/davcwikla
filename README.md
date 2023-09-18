@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Dawid Ćwikła and I'm CEO&Founder SHG - Cybersecurity&Technology
-- 👀 I’m interested in ethicalhacking, pentesting, programming. I love reading book and learning.
-- 🌱 I’m currently learning ethicalhacking (Secure Analyst) and programming (javascript, python c++)
-- 📫 How to reach me? Just write on cwiklatech@gmail.com or instagram @davidcwikla :)
+Some stuff like script here. Just want to be a pentester. I Love hacking and programming. Peace
